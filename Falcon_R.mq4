@@ -2,6 +2,7 @@
 //|                                          Falcon EA Template v2.0
 //|                                        Copyright 2015,Lucas Liew 
 //|                                  lucas@blackalgotechnologies.com 
+// by Marty
 //+------------------------------------------------------------------+
 #include <01_GetHistoryOrder.mqh>
 #include <02_OrderProfitToCSV.mqh>
